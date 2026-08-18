@@ -17,6 +17,8 @@ These release notes describe the new features and enhancements in each release o
 
 ## Omnissa IntelligenceSDK for iOS 26.5.1 Release - July 7, 2026
 
+**Note: If your app uses both SDKs, upgrading to this release of Omnissa IntelligenceSDK also requires upgrading [Workspace ONE SDK](https://developer.omnissa.com/ws1-uem-sdk-for-ios/) to [version 26.06](https://developer.omnissa.com/ws1-uem-sdk-for-ios/release-notes/#workspace-one-sdk-26060-for-ios-jul-2026) or later; for more information, see article [KB 6001611](https://kb.omnissa.com/s/article/6001611).**
+
 ### Minimum Requirements
 
 - Devices running iOS 16.0 or iPadOS 16.0 or newer.
