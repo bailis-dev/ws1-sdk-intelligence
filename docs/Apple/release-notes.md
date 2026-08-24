@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Omnissa Intelligence SDK for iOS Release Notes
+title: Omnissa Intelligence SDK for Apple Release Notes
 hide:
   #- navigation
   - toc
@@ -10,11 +10,11 @@ Updated August, 2026
 
 ## What's in the Release Notes
 
-These release notes describe the new features and enhancements in each release of Omnissa IntelligenceSDK for iOS. (Sometimes called "IntelligenceSDK".) This page contains a summary of the new capabilities, issues that have been resolved, and known issues that have been reported in each release. Omnissa IntelligenceSDK for iOS is a set of tools allow iOS apps to send telemetry data to the Omnissa Intelligence backend. 
+These release notes describe the new features and enhancements in each release of Omnissa IntelligenceSDK for Apple. (Sometimes called "IntelligenceSDK".) This page contains a summary of the new capabilities, issues that have been resolved, and known issues that have been reported in each release. Omnissa IntelligenceSDK for Apple is a set of tools allow iOS apps to send telemetry data to the Omnissa Intelligence backend. 
 
 
 
-## Omnissa IntelligenceSDK for iOS 26.5.1 Release - July 7, 2026
+## Omnissa IntelligenceSDK for Apple 26.8.0 Release - August 24, 2026
 
 **Note: If your app uses both SDKs, upgrading to this release of Omnissa IntelligenceSDK also requires upgrading [Workspace ONE SDK](https://developer.omnissa.com/ws1-uem-sdk-for-ios/) to [version 26.06](https://developer.omnissa.com/ws1-uem-sdk-for-ios/release-notes/#workspace-one-sdk-26060-for-ios-jul-2026) or later; for more information, see article [KB 6001611](https://kb.omnissa.com/s/article/6001611).**
 
@@ -55,7 +55,7 @@ These release notes describe the new features and enhancements in each release o
 
 
 
-## Omnissa IntelligenceSDK for iOS 26.5.1 Release - July 7, 2026
+## Omnissa IntelligenceSDK for Apple 26.5.1 Release - July 7, 2026
 
 **Note: If your app uses both SDKs, upgrading to this release of Omnissa IntelligenceSDK also requires upgrading [Workspace ONE SDK](https://developer.omnissa.com/ws1-uem-sdk-for-ios/) to [version 26.06](https://developer.omnissa.com/ws1-uem-sdk-for-ios/release-notes/#workspace-one-sdk-26060-for-ios-jul-2026) or later; for more information, see article [KB 6001611](https://kb.omnissa.com/s/article/6001611).**
 
@@ -84,7 +84,7 @@ These release notes describe the new features and enhancements in each release o
 
 
 
-## Omnissa IntelligenceSDK for iOS 26.5.0 Release - May, 2026
+## Omnissa IntelligenceSDK for Apple 26.5.0 Release - May, 2026
 
 ### Minimum Requirements
 
@@ -119,7 +119,7 @@ These release notes describe the new features and enhancements in each release o
 - None
 
 
-## Omnissa IntelligenceSDK for iOS 26.2.1 Release - April, 2026
+## Omnissa IntelligenceSDK for Apple 26.2.1 Release - April, 2026
 
 ### Minimum Requirements
 
@@ -145,7 +145,7 @@ These release notes describe the new features and enhancements in each release o
 - None
 
 
-## Omnissa IntelligenceSDK for iOS 26.2.0 Release - March, 2026
+## Omnissa IntelligenceSDK for Apple 26.2.0 Release - March, 2026
 
 ### Minimum Requirements
 
@@ -191,7 +191,7 @@ These release notes describe the new features and enhancements in each release o
 - In rare scenarios, when CaptureDEXData is set to true by UEM, user could experience an app crash. 
 
 
-## Omnissa IntelligenceSDK for iOS 25.11.0 Release - December 2025
+## Omnissa IntelligenceSDK for Apple 25.11.0 Release - December 2025
 
 ### Minimum Requirements
 
@@ -244,7 +244,7 @@ These release notes describe the new features and enhancements in each release o
 
 
 
-## Omnissa IntelligenceSDK for iOS 25.7.0 Release - Sept 2025
+## Omnissa IntelligenceSDK for Apple 25.7.0 Release - Sept 2025
 
 ### Minimum Requirements
 
@@ -264,7 +264,7 @@ These release notes describe the new features and enhancements in each release o
 
 ### Resolved Issues
 
-- Fixed missing crash information for iOS 26.
+- Fixed missing crash information for Apple 26.
 
    Some crashes were not recorded in the Intelligence system when crash logs were created that were larger than the 256 KB maximum size allowed in PLCrashReporter version 1.11.2. The observed instances were all from the iOS 26 simulator. None were observed from devices.
 
@@ -278,7 +278,7 @@ These release notes describe the new features and enhancements in each release o
 
 
 
-## Omnissa IntelligenceSDK for iOS 25.4.1 Release - June 2025
+## Omnissa IntelligenceSDK for Apple 25.4.1 Release - June 2025
 
 ### Minimum Requirements
 
@@ -305,7 +305,7 @@ These release notes describe the new features and enhancements in each release o
       - manually install the xcframework folder into your iOS project/workspace.
 
 
-## Omnissa IntelligenceSDK for iOS 25.4.0 Release - June 2025
+## Omnissa IntelligenceSDK for Apple 25.4.0 Release - June 2025
 
 ### Minimum Requirements
 
@@ -356,7 +356,7 @@ These release notes describe the new features and enhancements in each release o
       - manually install the xcframework folder into your iOS project/workspace.
 
 
-## Omnissa IntelligenceSDK for iOS 25.1.3 Release - June 2025
+## Omnissa IntelligenceSDK for Apple 25.1.3 Release - June 2025
 
 ### Minimum Requirements
 
@@ -377,7 +377,7 @@ none
 none
 
 
-## Omnissa IntelligenceSDK for iOS 25.1.2 Release - June 2025
+## Omnissa IntelligenceSDK for Apple 25.1.2 Release - June 2025
 
 ### Minimum Requirements
 
@@ -398,7 +398,7 @@ none
 none
 
 
-## Omnissa IntelligenceSDK for iOS 25.1.1 Release - May 28, 2025
+## Omnissa IntelligenceSDK for Apple 25.1.1 Release - May 28, 2025
 
 ### Minimum Requirements
 
@@ -424,7 +424,7 @@ none
 none
 
 
-## Omnissa IntelligenceSDK for iOS 25.1.0 Release - February 2025
+## Omnissa IntelligenceSDK for Apple 25.1.0 Release - February 2025
 
 ### Minimum Requirements
 
@@ -445,7 +445,7 @@ none
 none
 
 
-## Omnissa IntelligenceSDK for iOS 24.11.0 Release - December 2024
+## Omnissa IntelligenceSDK for Apple 24.11.0 Release - December 2024
 
 ### Minimum Requirements
 
@@ -468,7 +468,7 @@ none
 none
 
 
-## Omnissa IntelligenceSDK for iOS 24.8.0 Release - October 2024
+## Omnissa IntelligenceSDK for Apple 24.8.0 Release - October 2024
 
 ### Minimum Requirements
 
@@ -560,7 +560,7 @@ For more information, see: [Exporting Telemetry Data](ws1intelligence.md#exporti
 none
 
 
-## Omnissa IntelligenceSDK for iOS 24.6.0 Release - August 2024
+## Omnissa IntelligenceSDK for Apple 24.6.0 Release - August 2024
 
 ### Minimum Requirements
 
@@ -636,7 +636,7 @@ none
 
 ____
 
-## Omnissa IntelligenceSDK for iOS 24.3.0 Release - April 2024
+## Omnissa IntelligenceSDK for Apple 24.3.0 Release - April 2024
 
 ### Minimum Requirements
 
@@ -659,7 +659,7 @@ none
 
 ____
 
-## Omnissa IntelligenceSDK for iOS 24.1.0 Release - March 2024
+## Omnissa IntelligenceSDK for Apple 24.1.0 Release - March 2024
 
 ### Minimum Requirements
 
